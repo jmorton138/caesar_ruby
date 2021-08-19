@@ -1,4 +1,5 @@
 require 'pry'
+
 def caesar_cipher(string, shift)
     #convert string to array
     array = string.split("")
